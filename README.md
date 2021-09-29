@@ -1,24 +1,17 @@
-# Hack Technology / Project Attempted
+# Hackathing 2: Ruby's Adventure Tutorial
 
 
 ## What you built? 
+I made a 2-D game that included projectiles, health bar, health collectibles, particle systems, moving enemies, sound effects, and quest dialogue. 
 
-TODO: Short description of what you attempted to build
+## Screenshots
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-
-## Who Did What?
-
-TODO: who worked on what part?
 
 ## What you learned
-
-TODO: what worked / what didn't work
+I learned how to use more prefabs, create animations and reverse for characters walking and running. I also learned how to refer to single instances in Unity and create 2D landscapes. This tutorial was very long and it went very in depth in RayCasting, colliders, camera confinement, keyboard input, and many other things. After learning both 3D and 2D, I would say I'm comfortable trying to build a game by myself. I think the only issue would be textures, materials, and models that I could either scavenge or make myself in Maya. 
 
 ## Authors
-
-TODO: list of authors
+Antony Guzman
 
 ## Acknowledgments
 
